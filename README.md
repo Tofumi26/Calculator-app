@@ -1,5 +1,5 @@
 # Calculator-app
-Computer Science Student | Aspiring Front-End Developer | Open to Learning and Collaboration
+
 print("Simple Calculator")
 
 num1 = float(input("Enter first number: "))
